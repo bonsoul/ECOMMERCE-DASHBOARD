@@ -2,9 +2,4 @@
 
 In this dashboard I find out the following insights:
 
-Create a KPI to show YTD  Sales, Profit, Quantity Sold, and Profit Margin
-I find the year growth for each KPI with a YTD sparkline for each measure.
-Fint the YTD SALES, PYTD Sales, YoY Sales growth for different category.
-YTD Sales Performance by each state
-YTD Sales by Region to – show best and worst performing region.
-YTD Sales by Shipping Type – get best shipping type
+The dashboard provides a comprehensive view of key performance indicators (KPIs) such as YTD Sales, Profit, Quantity Sold, and Profit Margin, along with Year-over-Year (YoY) growth trends represented by sparklines. It analyzes YTD Sales, Previous Year-to-Date (PYTD) Sales, and YoY Sales growth across different product categories. Additionally, it evaluates YTD Sales performance by state and region, identifying both the best and worst-performing regions. Furthermore, it examines YTD Sales by Shipping Type to determine the most effective method.The dashboard provides a comprehensive view of key performance indicators (KPIs) such as YTD Sales, Profit, Quantity Sold, and Profit Margin, along with Year-over-Year (YoY) growth trends represented by sparklines. It analyzes YTD Sales, Previous Year-to-Date (PYTD) Sales, and YoY Sales growth across different product categories. Additionally, it evaluates YTD Sales performance by state and region, identifying both the best and worst-performing regions. Furthermore, it examines YTD Sales by Shipping Type to determine the most effective method.
